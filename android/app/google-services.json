@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "713697985274",
+    "project_id": "keep-notes-app-9ce54",
+    "storage_bucket": "keep-notes-app-9ce54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713697985274:android:8e2a64943bcb7cac39bf43",
+        "android_client_info": {
+          "package_name": "com.codeWithDishant.keepNotes.keep_notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713697985274-dloc42ta5rsgu1f7dq531kjh383p0hkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFr7Evmb09-zTUDsdjXh7OUA8G7PYvAGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713697985274-dloc42ta5rsgu1f7dq531kjh383p0hkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
